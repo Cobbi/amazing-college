@@ -1,0 +1,1 @@
+This is RAEDME file for custom Wordpress theme on Amazing College, a fictional college website
